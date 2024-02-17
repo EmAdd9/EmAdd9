@@ -2,11 +2,11 @@
 <h3 align="center">A passionate DevOps enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [My-DevOps-Journey](https://github.com/EmAdd9/My-DevOps-Journey.git)
+- 🔭 I’m currently working as a Associate Software Engineer at an Indian MNC. 
 
-- 🌱 I’m currently learning **DevOps-Automation**
+- 🌱 I’m currently learning [**DevOps-Automation**](https://github.com/EmAdd9/My-DevOps-Journey.git)
 
-- 💬 Ask me about **DevOps and Clouds**
+- 💬 Ask me about **Development, BackEnd, DevOps and Clouds**
 
 - 📫 How to reach me **mandal.sudeb.12@gmail.com**
 
