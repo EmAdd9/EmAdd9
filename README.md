@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning [**DevOps-Automation**](https://github.com/EmAdd9/My-DevOps-Journey.git)
 
-- 💬 Ask me about **Development, BackEnd, DevOps and Clouds**
+- 💬 Ask me about **BackEnd, DevOps and Clouds**
 
 - 📫 How to reach me **mandal.sudeb.12@gmail.com**
 
